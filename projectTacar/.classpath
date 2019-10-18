@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/mysql-connector-java-5.1.47.jar"/>
+	<classpathentry kind="lib" path="D:/ProjectTacar/libs/classifier4j-0.6.jar"/>
+	<classpathentry kind="lib" path="D:/ProjectTacar/libs/colt-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/ProjectTacar/libs/deeplearning4j-core-0.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/ProjectTacar/libs/deeplearning4j-nlp-0.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/ProjectTacar/libs/deeplearning4j-nn-0.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/ProjectTacar/libs/deeplearning4j-ui_2.11-0.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/ProjectTacar/libs/ensembleLibrary.jar"/>
+	<classpathentry kind="lib" path="D:/ProjectTacar/libs/gral-core-0.11.jar"/>
+	<classpathentry kind="lib" path="D:/ProjectTacar/libs/javabayes.jar"/>
+	<classpathentry kind="lib" path="D:/ProjectTacar/libs/jython-2.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/ProjectTacar/libs/libsvm.jar"/>
+	<classpathentry kind="lib" path="D:/ProjectTacar/libs/libsvm-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/ProjectTacar/libs/localOutlierFactor.jar"/>
+	<classpathentry kind="lib" path="D:/ProjectTacar/libs/mahout-core-0.9.jar"/>
+	<classpathentry kind="lib" path="D:/ProjectTacar/libs/mallet.jar"/>
+	<classpathentry kind="lib" path="D:/ProjectTacar/libs/mallet-deps.jar"/>
+	<classpathentry kind="lib" path="D:/ProjectTacar/libs/mysql-connector-java-5.1.45-bin.jar"/>
+	<classpathentry kind="lib" path="D:/ProjectTacar/libs/mysql-connector-java-8.0.11.jar"/>
+	<classpathentry kind="lib" path="D:/ProjectTacar/libs/nd4j-api-0.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/ProjectTacar/libs/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/ProjectTacar/libs/weka.jar"/>
+	<classpathentry kind="lib" path="D:/ProjectTacar/libs/weka-stable-3.8.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
